@@ -1,0 +1,34 @@
+{
+    "inputFile": "fnol1.pdf",
+    "extractedFields": {
+        "policyNumber": null,
+        "policyholderName": null,
+        "effectiveDates": null,
+        "dateOfLoss": null,
+        "timeOfLoss": null,
+        "location": null,
+        "description": null,
+        "claimant": null,
+        "thirdParties": null,
+        "contactDetails": null,
+        "assetID": null,
+        "assetType": "vehicle",
+        "estimatedDamage": null,
+        "claimType": "vehicle",
+        "initialEstimate": null,
+        "attachments": null
+    },
+    "missingFields": [
+        "policyNumber",
+        "policyholderName",
+        "dateOfLoss",
+        "location",
+        "description",
+        "claimant",
+        "assetID",
+        "estimatedDamage",
+        "initialEstimate"
+    ],
+    "recommendedRoute": "Manual Review",
+    "reasoning": "Mandatory fields missing: policyNumber, policyholderName, dateOfLoss, location, description, claimant, assetID, estimatedDamage, initialEstimate"
+}

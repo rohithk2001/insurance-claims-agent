@@ -1,0 +1,24 @@
+{
+    "inputFile": "sample_fnol.pdf",
+    "extractedFields": {
+        "policyNumber": "POL987654321",
+        "policyholderName": "Rohit Kumar Janjarapu",
+        "effectiveDates": null,
+        "dateOfLoss": "2026-02-01",
+        "timeOfLoss": null,
+        "location": "Hyderabad, Telangana, India",
+        "description": "traffic signal. Rear bumper and trunk sustained visible damage. No injuries reported.",
+        "claimant": "Rohit Kumar Janjarapu",
+        "thirdParties": null,
+        "contactDetails": "+91-9515263408",
+        "assetID": "VIN123456789ABC",
+        "assetType": "vehicle",
+        "estimatedDamage": "18500",
+        "claimType": "vehicle",
+        "initialEstimate": "18500",
+        "attachments": null
+    },
+    "missingFields": [],
+    "recommendedRoute": "Fast-track",
+    "reasoning": "Damage below fast-track threshold"
+}

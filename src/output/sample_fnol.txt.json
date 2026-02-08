@@ -1,0 +1,32 @@
+{
+    "inputFile": "sample_fnol.txt",
+    "extractedFields": {
+        "policyNumber": null,
+        "policyholderName": null,
+        "effectiveDates": null,
+        "dateOfLoss": null,
+        "timeOfLoss": null,
+        "location": "Hyderabad,",
+        "description": null,
+        "claimant": null,
+        "thirdParties": null,
+        "contactDetails": null,
+        "assetID": null,
+        "assetType": "vehicle",
+        "estimatedDamage": "18000",
+        "claimType": null,
+        "initialEstimate": "18000",
+        "attachments": null
+    },
+    "missingFields": [
+        "policyNumber",
+        "policyholderName",
+        "dateOfLoss",
+        "description",
+        "claimant",
+        "assetID",
+        "claimType"
+    ],
+    "recommendedRoute": "Manual Review",
+    "reasoning": "Mandatory fields missing: policyNumber, policyholderName, dateOfLoss, description, claimant, assetID, claimType"
+}
